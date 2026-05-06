@@ -1,2 +1,3 @@
 #Ignore java compilled files
 *.class
+*.gitignore
